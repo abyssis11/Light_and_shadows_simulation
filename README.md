@@ -4,7 +4,7 @@ This is attempt at making Light and shadows simulation implementing declarative 
 
 While static version is good enough, dynamic version needs improvement. 
 
-Static - source of light is always in the middle of canvas
+Static - source of light is always in the middle of the canvas
 
 ![Static simulation](/images/Static.png "Static simulation")
 
