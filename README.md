@@ -6,10 +6,10 @@ While static version is good enough, dynamic version needs improvement.
 
 Static - source of light is always in the middle of canvas
 
-![Static simulation](images\Static.png "Static simulation")
+![Static simulation](/images/Static.png "Static simulation")
 
 ---
 
 Dynamic - source of light is position of the mouse cursor
 
-![Dynamic simulation](images\Dynamic.png "Dynamic simulation")
+![Dynamic simulation](/images/Dynamic.png "Dynamic simulation")
